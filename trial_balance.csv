@@ -1,0 +1,12 @@
+account_code,account_name,account_type,total_debit,total_credit,net_balance
+1000,Cash,ASSET,280000.0,82915.54,197084.46
+1200,Inventory,ASSET,0.0,139000.0,-139000.0
+1510,Accum Depreciation,ASSET,0.0,9937.47,-9937.47
+2100,Accrued Expenses,LIABILITY,0.0,10500.0,-10500.0
+4000,Sales Revenue,REVENUE,0.0,280000.0,-280000.0
+5000,Cost of Goods Sold,EXPENSE,139000.0,0.0,139000.0
+5100,Salaries Expense,EXPENSE,55000.0,0.0,55000.0
+5200,Rent Expense,EXPENSE,24000.0,0.0,24000.0
+5300,Utilities Expense,EXPENSE,3915.54,0.0,3915.54
+5400,Depreciation Exp,EXPENSE,9937.47,0.0,9937.47
+5500,Accrued Expense,EXPENSE,10500.0,0.0,10500.0
