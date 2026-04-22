@@ -53,7 +53,7 @@ r2r-financial-close/
 │   ├── payments.csv
 │   └── financial_charts.png     # Revenue vs Expenses + Profit Trend
 ├── src/
-│   └── main.py                  # Single-file application
+│   └── main.py                  
 ├── requirements.txt
 └── README.md
 ```
@@ -64,6 +64,7 @@ r2r-financial-close/
 
 ```bash
 # 1. Clone / unzip the project
+git clone https://github.com/Adarshthegreat/SAP-R2R-Simulation.git
 cd r2r-financial-close
 
 # 2. Install dependencies
